@@ -1,0 +1,159 @@
+﻿<Window x:Class="CM_11._2_wpf_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CM_11._2_wpf_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="400">
+    <Grid RenderTransformOrigin="0.268,2.322">
+        <Ellipse HorizontalAlignment="Left" Height="70" Margin="165,150,0,0" Stroke="Black" VerticalAlignment="Top" Width="72.58">
+            <Ellipse.Fill>
+                <RadialGradientBrush>
+                    <GradientStop Color="#FFF5F6EE" Offset="0"/>
+                    <GradientStop Color="#FFE9F311" Offset="1"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Path Data="M189.53026,150.23396 L186.29769,143.51805 184.79815,135.01806 184.48377,122.19974 184.68377,109.99975 187.3035,101.58572 192.14982,95.300419 201.29989,93.800427 208.09994,95.400418 212.89998,102.40037 215.75,111.3003 216.75001,122.50021 216.95002,131.50015 216.35001,137.5001 214.95,142.70006 213.54999,145.70004 211.39135,149.79656 204.59992,148.46668 200.10001,148.4 195.63026,148.33396 z" HorizontalAlignment="Left" Height="57.434" Margin="183.551,95.733,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="33.466">
+            <Path.Fill>
+                <RadialGradientBrush>
+                    <GradientStop
+                        Color="#FFEEF6F5" Offset="0"/>
+                    <GradientStop
+                        Color="#FF117DF3" Offset="1"/>
+                </RadialGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M188.27464,151.01271 L186.29769,143.51805 184.79815,135.01806 184.48377,122.19974 184.68377,109.99975 187.3035,101.58572 192.14982,95.300419 201.29989,93.800427 208.09994,95.400418 212.89998,102.40037 215.75,111.3003 216.75001,122.50021 216.95002,131.50015 216.35001,137.5001 214.95,142.70006 213.78996,146.61072 212.32126,149.69298 205.60856,148.53523 199.95221,148.82646 195.05202,149.50951 z" HorizontalAlignment="Left" Height="58.212" Margin="139.467,114.333,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="33.466" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-45"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+            <Path.Fill>
+                <RadialGradientBrush>
+                    <GradientStop
+                        Color="#FFEEF6F5" Offset="0"/>
+                    <GradientStop
+                        Color="#FF117DF3" Offset="1"/>
+                </RadialGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M188,150.7 L186.29769,143.51805 184.79815,135.01806 184.48377,122.19974 184.68377,109.99975 187.3035,101.58572 192.14982,95.300419 201.29989,93.800427 208.09994,95.400418 212.89998,102.40037 215.75,111.3003 216.75001,122.50021 216.95002,131.50015 216.35001,137.5001 214.95,142.70006 213.54999,145.70004 212.72458,147.61894 204.54992,148.10002 200.10001,148.4 194.10001,148.8 z" HorizontalAlignment="Left" Height="57.9" Margin="149.734,203.8,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="33.466" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-140"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+            <Path.Fill>
+                <RadialGradientBrush>
+                    <GradientStop
+                        Color="#FFEEF6F5" Offset="0"/>
+                    <GradientStop
+                        Color="#FF117DF3" Offset="1" />
+                </RadialGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M188.7105,149.17296 L186.17195,141.75471 184.79815,135.01806 184.48377,122.19974 184.68377,109.99975 187.3035,101.58572 192.14982,95.300419 201.29989,93.800427 208.09994,95.400418 212.89998,102.40037 215.75,111.3003 216.75001,122.50021 216.95002,131.50015 216.35001,137.5001 214.95,142.70006 213.74934,148.9674 209.64809,147.69457 204.98114,146.98745 199.62269,147.17471 192.83441,147.74042 z" HorizontalAlignment="Left" Height="56.371" Margin="226.401,114.599,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="33.466" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="45"/>
+                    <TranslateTransform X="0.5990048618039836" Y="0.20198784386036905"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+            <Path.Fill>
+                <RadialGradientBrush>
+                    <GradientStop
+                        Color="#FFEEF6F5" Offset="0" />
+                    <GradientStop
+                        Color="#FF117DF3" Offset="1"/>
+                </RadialGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M188.99134,147.32773 L186.29769,143.51805 184.79815,135.01806 184.48377,122.19974 184.68377,109.99975 187.3035,101.58572 192.14982,95.300419 201.29989,93.800427 208.09994,95.400418 212.89998,102.40037 215.75,111.3003 216.75001,122.50021 216.95002,131.50015 216.35001,137.5001 214.95,142.70006 213.54999,145.70004 212.23165,148.27425 204.62697,146.66145 200.04101,145.86837 194.55586,146.01246 z" HorizontalAlignment="Left" Height="55.475" Margin="214.466,209.667,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="33.466" RenderTransformOrigin="0.5,0.5">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="150"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+            <Path.Fill>
+                <RadialGradientBrush>
+                    <GradientStop
+                        Color="#FFEEF6F5" Offset="0"/>
+                    <GradientStop
+                        Color="#FF117DF3" Offset="1"/>
+                </RadialGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M200.89999,219.03333 L194.49999,232.9 188.50811,253.03983 184.36665,272.36665 183.83331,285.69998 185.43331,301.16664 187.49999,313.69999 195.17286,344.54475 196.77412,364.29557 195.36792,386.11742 189.16665,403.29996 179.09998,416.89995" HorizontalAlignment="Left" Height="202.867" Margin="175.3,216.833,0,0" Stretch="Fill" VerticalAlignment="Top" Width="26.8" StrokeThickness="5" Stroke="#FF1C4208"/>
+        <Path Data="M197.8793,366.03888 L203.4022,345.7178 219.43139,328.38228 235.29958,321.20701 249.55372,320.73085 259.7186,321.50132 268.30125,319.81082 276.43501,314.83455 279.24804,319.04035 281.17115,327.66389 280.02995,334.4497 275.72905,342.15438 267.12804,348.70335 258.52733,352.55569 245.62575,355.63756 236.63375,357.1785 229.50101,358.03183 220.99547,357.94896 212.43399,359.63205 206.13906,361.12714 201.05664,364.20901 197.35836,366.03888" HorizontalAlignment="Left" Height="50.034" Margin="189.5,276.733,0,0" Stretch="Fill" Stroke="#FF1C4208" StrokeThickness="2" VerticalAlignment="Top" Width="82.352">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFAEF07F" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FF3A8E10" Offset="0.972"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M188.43062,152.01876 L186.29769,143.51805 184.79815,135.01806 184.48377,122.19974 184.68377,109.99975 187.3035,101.58572 192.14982,95.300419 201.29989,93.800427 208.09994,95.400418 212.89998,102.40037 215.75,111.3003 216.75001,122.50021 216.95002,131.50015 216.35001,137.5001 214.95,142.70006 213.54999,145.70004 211.39135,149.79656 204.63075,148.61858 198.4307,149.01858 193.23066,149.81857 z" HorizontalAlignment="Left" Height="59.219" Margin="179.284,190.9,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="33.466" RenderTransformOrigin="-0.839,0.712">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90"/>
+                    <TranslateTransform X="0.93912800000001084" Y="-0.93912800000000374"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+            <Path.Fill>
+                <RadialGradientBrush >
+      
+                    <GradientStop
+                        Color="#FFEEF6F5" Offset="0" />
+     
+                    <GradientStop
+                        Color="#FF117DF3" Offset="1"/>
+      
+                </RadialGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M187.64194,148.08918 L186.29769,143.51805 184.79815,135.01806 184.48377,122.19974 184.68377,109.99975 187.3035,101.58572 192.14982,95.300419 201.29989,93.800427 208.09994,95.400418 212.89998,102.40037 215.75,111.3003 216.75001,122.50021 216.95002,131.50015 216.35001,137.5001 214.95,142.70006 213.54999,145.70004 211.39135,149.79656 204.59992,148.46668 200.64102,147.83067 194.24282,148.25925 z" HorizontalAlignment="Left" Height="56.997" Margin="277.684,102.1,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="33.466" RenderTransformOrigin="-0.839,0.712">
+            <Path.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-269.744"/>
+                    <TranslateTransform X="0.64292958241408726" Y="0.64580865606237126"/>
+                </TransformGroup>
+            </Path.RenderTransform>
+            <Path.Fill>
+                <RadialGradientBrush >
+      
+                    <GradientStop
+                        Color="#FFEEF6F5" Offset="0"/>
+      
+                    <GradientStop
+                        Color="#FF117DF3" Offset="1" />
+     
+                </RadialGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path Data="M93.4,438.9 L132.5,414.39999 170.9,414.39999 194.89999,414.39999 211.69999,425.19999 216.5,432.39999 227.3,435.99999 240.5,439.59999 234.5,446.80001" HorizontalAlignment="Left" Height="33.4" Margin="93.4,414.4,0,0" Stretch="Fill" Stroke="Black" VerticalAlignment="Top" Width="148.1">
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0C0C0B" Offset="0"/>
+                    <GradientStop Color="#FF9A895B" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+
+    </Grid>
+</Window>
